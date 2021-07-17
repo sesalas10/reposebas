@@ -1,0 +1,237 @@
+.father{
+
+    
+    margin-top: 3em;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    margin-left: 10%;
+    display: flex;
+    
+  }
+
+  .son{
+
+
+    width: 40em;
+    height: 40em;
+    color: white;
+    
+    
+
+  }
+
+  .similarprod{
+
+    width: 240px;
+    height: 5em;
+    display: flex;
+
+  }
+
+  
+
+  .imashow{
+
+    width: 300px;
+    height: 190px;
+
+
+  }
+
+  .moreimages{
+
+    display: flex;
+    margin-right: 20px;
+    
+    
+  }
+
+  .numofprod{
+
+    width: 4em;
+    height: 2.5em;
+    margin-right: 3%;
+
+
+  }
+
+  .imagerelated{
+
+    width: 190px;
+    height: 50px;
+    margin-top: 5px;
+
+  }
+
+  .add{
+
+
+    color: white;
+    background-color: rgb(112, 112, 255);
+    width: 10em;
+    height: 3em;
+    margin-top: 1em;
+  }
+
+  .review{
+
+    margin-top: 3%;
+    color: black;
+    background-color: white;
+    width: 10em;
+    height: 3em;
+    margin-top: 1em;
+    border: none;
+  }
+
+  .part1{
+
+    border-bottom: 1px solid gray;
+
+  }
+  
+  .shopping{
+
+    background-color: rgb(112, 112, 255);
+    color: white;
+    height: 3em;
+    text-align: center;
+     
+}
+
+.pp1{
+
+    display: flex;
+}
+
+
+.boxess{
+    
+    height: 5em;
+    width: 15em;
+   
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    border-right: 1px solid gray;
+    border-left: 1px solid gray;
+    text-align: center;
+    
+
+
+}
+
+
+.boxes{
+
+    
+        height: 5em;
+        width: 5em;   
+        border-top: 1px solid gray;
+        border-bottom: 1px solid gray;
+        border-right: 1px solid gray;
+        border-left: 1px solid gray;
+        text-align: center;
+ 
+}
+
+.abcima{
+
+    height: 4.5em;
+    width: 5em;
+}
+
+.textbox123{
+
+    width: 20%;
+}
+
+.box{
+
+    height: 5em;
+    width: 7em;
+   
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    border-right: 1px solid gray;
+    border-left: 1px solid gray;
+    text-align: center;
+}
+
+.pp1{
+
+    width: 40em;
+}
+
+.v1{
+
+    margin-top: 11%;
+    background-color: rgb(112, 112, 255);
+}
+
+.down{
+
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    border-right: 1px solid gray;
+    border-left: 1px solid gray;
+    width: 100%;
+   display: flex;
+   align-items: center;
+
+
+}
+
+.v2{
+
+   
+    background-color: rgb(112, 112, 255);
+}
+
+.xcv{
+
+    display: flex;
+}
+
+.ima123{
+
+     height: 10em;
+     width: 10em;
+     border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    border-right: 1px solid gray;
+    border-left: 1px solid gray;
+}
+
+
+.ess{
+
+    height: 3.5em;
+    width: 8em;
+   
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    border-right: 1px solid gray;
+    border-left: 1px solid gray;
+
+    text-align: center;
+
+
+
+}
+
+.ess2{
+
+  height: 3.5em;
+  width: 8em;
+ 
+ 
+  border-bottom: 1px solid gray;
+  
+
+  text-align: center;
+
+
+
+}
+
